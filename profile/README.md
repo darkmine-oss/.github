@@ -4,4 +4,4 @@ Darkmine Open Source Software is an initiative by Darkmine Pty Ltd to develop, g
 
 Our repositories contain free software designed to support industry workflows, accelerate innovation, and lower barriers to adoption.
 
-For more information, visit darkmine.ai.
+For more information, visit [darkmine.ai](https://darkmine.ai).
